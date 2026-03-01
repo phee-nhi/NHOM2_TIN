@@ -204,3 +204,7 @@
             background: #000;
             color: #777;
         }
+.title {display: flex;align-items: center;justify-content: center;gap: 30px;}
+
+.title img { width: 150px;border-radius: 50%;}
+
